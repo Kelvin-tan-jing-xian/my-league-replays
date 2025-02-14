@@ -48,6 +48,10 @@ function App() {
       url: '/yi1v1Aatrox.mp4',
       description: 'Lvl 13 Yi with botrk and guinsoos and no E beat Lvl 14 Aatrox with same item numbers. Save alpha to dodge aatrox 3rd Q. Yi is a great counter to Aatrox.'
     },
+    {
+      url: '/yiPentaKillSolo.mp4',
+      description: '1v5 penta kill'
+    },
     // {
     //   url: '/.mp4',
     //   description: ''
