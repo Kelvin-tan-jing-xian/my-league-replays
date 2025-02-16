@@ -56,6 +56,10 @@ function App() {
       url: '/yiSoloBaron.mp4',
       description: 'Yi can solo baron with 3 items and 1 boots'
     },
+    {
+      url: '/yi1v1Garen.mp4',
+      description: 'QSS can remove Garen Slience, allowing yi to win 1v1. Remember to meditate garens ult.'
+    },
     // {
     //   url: '/.mp4',
     //   description: ''
