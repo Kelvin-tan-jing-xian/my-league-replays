@@ -52,6 +52,10 @@ function App() {
       url: '/yiPentaKillSolo.mp4',
       description: '1v5 penta kill'
     },
+    {
+      url: '/yiSoloBaron.mp4',
+      description: 'Yi can solo baron with 3 items and 1 boots'
+    },
     // {
     //   url: '/.mp4',
     //   description: ''
