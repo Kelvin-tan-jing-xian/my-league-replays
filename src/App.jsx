@@ -60,6 +60,10 @@ function App() {
       url: '/yi1v1Garen.mp4',
       description: 'QSS can remove Garen Slience, allowing yi to win 1v1. Remember to meditate garens ult.'
     },
+    {
+      url: '/yiHuntKarthus.mp4',
+      description: 'I knew Karthus start bot camps and will go top side, so I waited at his red for a free kill.'
+    },
     // {
     //   url: '/.mp4',
     //   description: ''
