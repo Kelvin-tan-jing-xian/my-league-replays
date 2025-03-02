@@ -1,5 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import './App.css';
+import Fuse from 'fuse.js';
 
 function App() {
   const videoRef = useRef(null);
@@ -23,7 +24,13 @@ function App() {
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
   const [searchKeyword, setSearchKeyword] = useState('');
+  const fuseOptions = {
+    includeScore: true,
+    keys: ['keywords', 'description'],
+    threshold: 0.4,
+  };
 
+  const fuse = new Fuse(videoData, fuseOptions);
   useEffect(() => {
     const video = videoRef.current;
     const handleEnded = () => {
@@ -59,17 +66,17 @@ function App() {
 
   const handleSearch = (event) => {
     event.preventDefault();
-    const foundIndex = videoData.findIndex((video) =>
-      video.keywords.some((keyword) => keyword.toLowerCase().includes(searchKeyword.toLowerCase()))
-    );
-    if (foundIndex !== -1) {
-      setCurrentVideoIndex(foundIndex);
+    const results = fuse.search(searchKeyword);
+
+    if (results.length > 0) {
+      const bestMatchIndex = videoData.indexOf(results[0].item); // Get index of best match
+      setCurrentVideoIndex(bestMatchIndex);
       if (videoRef.current) {
         videoRef.current.currentTime = 0;
         videoRef.current.play();
       }
     } else {
-      alert('Video not found.');
+      alert('No matching videos found.');
     }
     setSearchKeyword(''); 
   };
