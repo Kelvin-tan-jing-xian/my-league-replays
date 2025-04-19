@@ -21,6 +21,7 @@ function App() {
     { url: '/yi1v1Garen.mp4', description: 'QSS can remove Garen Slience, allowing yi to win 1v1. Remember to meditate garens ult.', keywords: ['1v1', 'garen', 'masteryi'] },
     { url: '/yiHuntKarthus.mp4', description: 'I knew Karthus start bot camps and will go top side, so I waited at his red for a free kill.', keywords: ['hunt', 'karthus', 'masteryi'] },
     { url: '/GarenProxyKayle1.mp4', description: 'Garen vs Kayle rush attack speed boots first, then 2 long swords good enough to proxy. Decide to proxy enemy base if team is getting dragon and no one is backing.', keywords: ['kayle', 'garen', 'proxy'] },
+    { url: '/GarenProxyKayle2.mp4', description: 'Garen vs Kayle rush attack speed boots first, then 2 long swords good enough to proxy. Decide to proxy enemy base if team is getting dragon and no one is backing.', keywords: ['kayle', 'garen', 'proxy', 'base', 'proxybase','proxy base'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
