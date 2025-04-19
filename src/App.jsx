@@ -22,6 +22,7 @@ function App() {
     { url: '/yiHuntKarthus.mp4', description: 'I knew Karthus start bot camps and will go top side, so I waited at his red for a free kill.', keywords: ['hunt', 'karthus', 'masteryi'] },
     { url: '/GarenProxyKayle1.mp4', description: 'Garen vs Kayle rush attack speed boots first, then 2 long swords good enough to proxy. Decide to proxy enemy base if team is getting dragon and no one is backing.', keywords: ['kayle', 'garen', 'proxy'] },
     { url: '/GarenProxyKayle2.mp4', description: 'Garen vs Kayle rush attack speed boots first, then 2 long swords good enough to proxy. Decide to proxy enemy base if team is getting dragon and no one is backing.', keywords: ['kayle', 'garen', 'proxy', 'base', 'proxybase','proxy base'] },
+    { url: '/GarenProxySett.mp4', description: 'Garen vs Sett rush attack speed boots first then can proxy liao. Never lane with Sett cuz Garen will lose no matter what', keywords: ['sett', 'garen', 'proxy'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
