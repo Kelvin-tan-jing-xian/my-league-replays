@@ -23,6 +23,7 @@ function App() {
     { url: '/GarenProxyKayle1.mp4', description: 'Garen vs Kayle rush attack speed boots first, then 2 long swords good enough to proxy. Decide to proxy enemy base if team is getting dragon and no one is backing.', keywords: ['kayle', 'garen', 'proxy'] },
     { url: '/GarenProxyKayle2.mp4', description: 'Garen vs Kayle rush attack speed boots first, then 2 long swords good enough to proxy. Decide to proxy enemy base if team is getting dragon and no one is backing.', keywords: ['kayle', 'garen', 'proxy', 'base', 'proxybase','proxy base'] },
     { url: '/GarenProxySett.mp4', description: 'Garen vs Sett rush attack speed boots first then can proxy liao. Never lane with Sett cuz Garen will lose no matter what', keywords: ['sett', 'garen', 'proxy'] },
+    { url: '/GarenProxySett2.mp4', description: 'Decide to proxy base if ally jg is near objectives(grubs). Secured grubs and killed enemy jg wow', keywords: ['sett', 'garen', 'proxy','base','voidgrubs'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
