@@ -25,6 +25,7 @@ function App() {
     { url: '/GarenProxySett.mp4', description: 'Garen vs Sett rush attack speed boots first then can proxy liao. Never lane with Sett cuz Garen will lose no matter what', keywords: ['sett', 'garen', 'proxy'] },
     { url: '/GarenProxySett2.mp4', description: 'Decide to proxy base if ally jg is near objectives(grubs). Secured grubs and killed enemy jg wow', keywords: ['sett', 'garen', 'proxy','base','voidgrubs','proxyvoid','proxy voidgrubs','base proxy voidgrubs','proxy base voidgrubs'] },
     { url: '/GarenProxySett3.mp4', description: 'Knew enemy is busy getting drake, so I proxied knowing they have no time for me. I should have backed after taking two waves enough to buy stridebreaker.', keywords: ['sett', 'garen', 'proxy','base','drake','proxy drake', 'base proxy drake','base drake proxy','drake base proxy','drake proxy base'] },
+    { url: '/KaynLvl1InvadeTopRed.mp4', description: 'Invaded their red took their 3 top camps at start game because I wanna focus on touching the volibear top to get red form fast. Voli spotted me and tot he can kill me but dream on.', keywords: ['volibear', 'kayn', 'invade red','lvl1','raptors start'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
