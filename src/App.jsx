@@ -27,6 +27,7 @@ function App() {
     { url: '/GarenProxySett3.mp4', description: 'Knew enemy is busy getting drake, so I proxied knowing they have no time for me. I should have backed after taking two waves enough to buy stridebreaker.', keywords: ['sett', 'garen', 'proxy','base','drake','proxy drake', 'base proxy drake','base drake proxy','drake base proxy','drake proxy base'] },
     { url: '/KaynLvl1InvadeTopRed.mp4', description: 'Invaded their red took their 3 top camps at start game because I wanna focus on touching the volibear top to get red form fast. Voli spotted me and tot he can kill me but dream on.', keywords: ['volibear', 'kayn', 'invade red','lvl1','raptors start'] },
     { url: '/kaynTouchingSejuani.mp4', description: 'I saw sejuani walking up to gank top so I ambush her to get red orbs. Thought he would take raptors but taking krugs instead shown by my E, so I just go contest krugs with my Q AND smite while touching him. Got red form at 8min+ thanks to this', keywords: ['sejuani', 'kayn', 'ambush','contest krugs','red orbs'] },
+    { url: '/kaynStealTalonBlue.mp4', description: 'saw talon shown bot lane after taking his bot 3 camps, means he left his top blue open, he take crab and base, giving me time to take top crab and steal his blue', keywords: ['talon', 'kayn', 'steal blue'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
