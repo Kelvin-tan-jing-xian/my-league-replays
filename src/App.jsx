@@ -31,6 +31,7 @@ function App() {
     { url: '/kaynSpotTalonTakingDrag.mp4', description: 'Saw talon ganked bot and moving to take drag, knew I can contest with smite and R, in the end killed yasuo and secured drag with help of mah team', keywords: ['talon', 'kayn', 'contest drag','yasuo','contest drake','contest dragon'] },
     { url: '/kaynTripleKill.mp4', description: 'Ambushed jhin first then lead to triple kill with help of team.', keywords: ['kayn', 'triple kill','ambush jhin','red kayn'] },
     { url: '/kaynInvadeTopBlueJax.mp4', description: 'Invaded top blue, jax tot can kill me when he lvl 1 what a joke dream on, cleared 3 camps top, scuttle, transition to push top make jax lose 1 wave cuz he no tp.', keywords: ['kayn', 'invade blue','jax','invade top blue'] },
+    { url: '/kaynContestDragElise.mp4', description: 'contest drag i won smite contest provided morg help root elise, double knock up vex n renekton to secure kills', keywords: ['kayn', 'elise','vex','renekton','contest drag','contest drake','contest dragon','double knock up'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
