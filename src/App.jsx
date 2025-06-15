@@ -29,6 +29,7 @@ function App() {
     { url: '/kaynTouchingSejuani.mp4', description: 'I saw sejuani walking up to gank top so I ambush her to get red orbs. Thought he would take raptors but taking krugs instead shown by my E, so I just go contest krugs with my Q AND smite while touching him. Got red form at 8min+ thanks to this', keywords: ['sejuani', 'kayn', 'ambush','contest krugs','red orbs'] },
     { url: '/kaynStealTalonBlue.mp4', description: 'saw talon shown bot lane after taking his bot 3 camps, means he left his top blue open, he take crab and base, giving me time to take top crab and steal his blue', keywords: ['talon', 'kayn', 'steal blue'] },
     { url: '/kaynSpotTalonTakingDrag.mp4', description: 'Saw talon ganked bot and moving to take drag, knew I can contest with smite and R, in the end killed yasuo and secured drag with help of mah team', keywords: ['talon', 'kayn', 'contest drag','yasuo','contest drake','contest dragon'] },
+    { url: '/kaynTripleKill.mp4', description: 'Ambushed jhin first then lead to triple kill with help of team.', keywords: ['kayn', 'triple kill','ambush jhin','red kayn'] },
   ];
 
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
