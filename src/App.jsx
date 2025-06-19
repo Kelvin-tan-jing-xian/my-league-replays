@@ -34,6 +34,7 @@ function App() {
     { url: '/kaynContestDragElise.mp4', description: 'contest drag i won smite contest provided morg help root elise, double knock up vex n renekton to secure kills', keywords: ['kayn', 'elise','vex','renekton','contest drag','contest drake','contest dragon','double knock up'] },
     { url: '/kaynDemolishRenekton.mp4', description: 'saw renekton walk by river from bot to top lvl 1 , ambush him in top river, from then on he no tp so only can walk to lane, so ambush at top lane make him lose 4 waves.', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
     { url: '/kaynPickGoodFight.mp4', description: 'saw graves out of sync with team so i targeted him, got yuumi heal ult malz ult setting up team for easy clean up.', keywords: ['kayn', 'graves','engage graves','malz R','yuumi R'] },
+    { url: '/kaynSoloKillGraves.mp4', description: 'walk into their jg to find picks since i got ult, saw graves alone , their team top side, so i solo killed him.', keywords: ['kayn', 'graves','kayn solo kill graves','kayn solo graves','kayn graves','kayn 1v1 graves'] },
     // { url: '/kaynPickGoodFight.mp4', description: '', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
   ];
 
