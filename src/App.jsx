@@ -38,6 +38,7 @@ function App() {
     { url: '/kaynKillGravesHerald.mp4', description: 'killed graves before he can attempt to steal herald.', keywords: ['kayn', 'graves','herald','herald kill','secure herald'] },
     { url: '/redKaynMidEngage.mp4', description: 'Engaged with team won mid fight and ended.', keywords: ['kayn', 'ezreal','sylas support','mid fight','red kayn','malzahar'] },
     { url: '/kaynTripleKnockUp.mp4', description: 'Q first to get good position for Triple knock up', keywords: ['kayn', 'triple knock up','zed','malzahar'] },
+    { url: '/kaynPykeSynergy.mp4', description: 'kayn W synergize with pyke E stun beautiful shit.', keywords: ['kayn', 'pyke','kayn pyke','kayn pyke synergy','kayn w pyke e'] },
     // { url: '/kaynPickGoodFight.mp4', description: '', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
   ];
 
