@@ -39,6 +39,7 @@ function App() {
     { url: '/redKaynMidEngage.mp4', description: 'Engaged with team won mid fight and ended.', keywords: ['kayn', 'ezreal','sylas support','mid fight','red kayn','malzahar'] },
     { url: '/kaynTripleKnockUp.mp4', description: 'Q first to get good position for Triple knock up', keywords: ['kayn', 'triple knock up','zed','malzahar'] },
     { url: '/kaynPykeSynergy.mp4', description: 'kayn W synergize with pyke E stun beautiful shit.', keywords: ['kayn', 'pyke','kayn pyke','kayn pyke synergy','kayn w pyke e'] },
+    { url: '/kaynWallJuke.mp4', description: 'play around wall cuz lvl 1 only kayn has wall dash, yi and aatrox dont have. Wait til aatrox walk near u then q over wall,else just stand still in wall cuz no one can auto u.', keywords: ['kayn', 'yi','wall juke','kayn yi','kayn wall juke yi','kayn juke yi'] },
     // { url: '/kaynPickGoodFight.mp4', description: '', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
   ];
 
