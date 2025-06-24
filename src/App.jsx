@@ -42,6 +42,7 @@ function App() {
     { url: '/kaynWallJuke.mp4', description: 'play around wall cuz lvl 1 only kayn has wall dash, yi and aatrox dont have. Wait til aatrox walk near u then q over wall,else just stand still in wall cuz no one can auto u.', keywords: ['kayn', 'yi','wall juke','kayn yi','kayn wall juke yi','kayn juke yi'] },
     { url: '/kaynNasusRaptorFight.mp4', description: 'went to contest his raptors knowing i have Q and smite, my Q will win contest against nasus E Q', keywords: ['kayn', 'nasus','contest raptors','raptor fight','raptors fight','kayn nasus raptor'] },
     { url: '/kaynKillNasusBlueNKrugs.mp4', description: 'thanks to jg traqcking i knew nasus on blue, after he died i knew the only place he can go is his red and krugs', keywords: ['kayn', 'nasus','kayn nasus red buff','kayn nasus krugs', 'kayn nasus blue krugs'] },
+    { url: '/kaynCounterGankNasus.mp4', description: 'counter ganked nasus bot lane, saw leona still healthy to fight so i commit to counter gank', keywords: ['kayn', 'leona','kayn nasus leona','kayn nasus counter gank bot'] },
     // { url: '/kaynPickGoodFight.mp4', description: '', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
   ];
 
