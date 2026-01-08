@@ -23,6 +23,7 @@ function App() {
     { url: '/kaynKillNasusRed.mp4', description: 'saw him in blue buff so nasus will definitely go red buff after respawn', keywords: ['kayn nasus red buff'] },
     { url: '/j4StealAtakhan.mp4', description: 'Waited in opponents bush side knowing they wont expect me to be there, Stole atakhan with smite and R', keywords: ['steal atakhan', 'stole atakhan','stealatakhan','j4 steal atakhan'] },
     { url: '/GoodUseOfRiftHerald.mp4', description: 'Saw all of enemy taking bot drag so I use herald on mid and got 2 inner turrets', keywords: ['herald push mid', 'rift herald push mid','rift herald mid push','push mid rift herald','2 mid turrets 1 inihibitor'] },
+    { url: '/kaynSoloKillAmumu.mp4', description: 'invaded enemy top took his red quadrant and placed ward and saw amumu walking into me so I ambushed him knowing im stronger with red buff and potion and first to attack, main point was to farm red orbs', keywords: ['kayn amumu', 'invade red quadrant','kayn solo kill amumu'] },
     // { url: '/kayggrgergregreg.mp4', description: 'gregergergergg', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
   ];
 
