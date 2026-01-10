@@ -28,6 +28,7 @@ function App() {
     { url: '/kaynStealBaron.mp4', description: 'flashed in and stole baron', keywords: ['kayn steal baron', 'kayn stole baron'] },
     { url: '/kaynSoloKillMalphite.mp4', description: 'Kayn wins Malphite 1v1 at level 1', keywords: ['kayn solo kill malphite', 'kayn 1v1 malphite'] },
     { url: '/kaynKillMalphiteAtRaptors.mp4', description: 'I knew malphite will clear raptors so I invaded and stole his raptors knowing I am stronger early game', keywords: ['kayn solo kill malphite raptors', 'kayn invade malphite raptors'] },
+    { url: '/kaynKillMundoAtGromp.mp4', description: 'Saw mundo used smite at blue so I know his gromp is confirm mine', keywords: ['kayn kill mundo at gromp', 'kayn steal mundo gromp'] },
     // { url: '/kayggrgergregreg.mp4', description: 'gregergergergg', keywords: ['kayn', 'mundo'] },
   ];
 
