@@ -26,6 +26,7 @@ function App() {
     { url: '/kaynSoloKillAmumu.mp4', description: 'invaded enemy top took his red quadrant and placed ward and saw amumu walking into me so I ambushed him knowing im stronger with red buff and potion and first to attack, main point was to farm red orbs', keywords: ['kayn amumu', 'invade red quadrant','kayn solo kill amumu'] },
     { url: '/j4OutplayNasus.mp4', description: 'Nasus no flash so I knew as long as I cage him and E Q out he cant do shit, so I baited him into tower and caged and outplayed him', keywords: ['j4 outplay nasus', 'j4 cage nasus'] },
     { url: '/kaynStealBaron.mp4', description: 'flashed in and stole baron', keywords: ['kayn steal baron', 'kayn stole baron'] },
+    { url: '/kaynSoloKillMalphite.mp4', description: 'Kayn wins Malphite 1v1 at level 1', keywords: ['kayn solo kill malphite', 'kayn 1v1 malphite'] },
     // { url: '/kayggrgergregreg.mp4', description: 'gregergergergg', keywords: ['kayn', 'mundo','renekton','lose 4 waves','lvl 3 lvl 1'] },
   ];
 
