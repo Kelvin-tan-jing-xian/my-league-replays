@@ -30,6 +30,7 @@ function App() {
     { url: '/kaynKillMalphiteAtRaptors.mp4', description: 'I knew malphite will clear raptors so I invaded and stole his raptors knowing I am stronger early game', keywords: ['kayn solo kill malphite raptors', 'kayn invade malphite raptors'] },
     { url: '/kaynKillMundoAtGromp.mp4', description: 'Saw mundo used smite at blue so I know his gromp is confirm mine', keywords: ['kayn kill mundo at gromp', 'kayn steal mundo gromp'] },
     { url: '/j4WinGrubsFight.mp4', description: 'Stole 2 grubs and won teamfight', keywords: ['j4 steal voidgrubs', 'j4 stole grubs','j4 stole voidgrubs', 'j4 win grubs fight'] },
+    { url: '/j4WonMidFight.mp4', description: 'I knew tower was 1hp so I just destroy with 1 auto and baited fizz into fighting me and I know I am stronger than him', keywords: ['tower 1 hp', 'j4 kill fizz mid'] },
     // { url: '/kayggrgergregreg.mp4', description: 'gregergergergg', keywords: ['kayn', 'mundo'] },
   ];
 
